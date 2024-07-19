@@ -1,4 +1,4 @@
-# MikanOS
+# MikanOS -fork用
 
 MikanOS はレガシーフリーなアーキテクチャ（UEFI BIOS、Intel 64 モード）で動作する教育用オペレーティングシステムです。
 
